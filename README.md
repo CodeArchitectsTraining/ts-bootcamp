@@ -1,2 +1,3 @@
-# ts-bootcamp
-Typescript bootcamp.
+# Typescript Bootcamp
+
+Simple project to teach Typescript basics. Runs and debugs Typescript code with *ts-node*.
